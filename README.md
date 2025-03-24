@@ -1,2 +1,3 @@
 # vijaytech_demo
-This is my first Git Repository.
+<br>
+<hr>This is my first Git Repository.<hr>
