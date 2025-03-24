@@ -1,4 +1,4 @@
 # vijaytech_demo
-<hr>This is my first Git Repository.<hr>
+This is my first Git Repository.
 <br>
 Author - Vijay Kumar
